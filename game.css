@@ -1,0 +1,63 @@
+body
+{
+	background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/job545-wit-20.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=b46c9c3bc7b91a0874be7730d51abc6b");
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		width: 30%;
+		height: 150px;
+		background-color: wheat;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 3px;
+	color:peru;
+	font-weight: bold;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid black;
+padding: 10px;
+float: none;
+text-align: left;
+}
+h1{
+	color:black;
+
+}
+h3{
+	
+	color:black;
+}
+label{
+	
+	color:tan;
+}
+button{
+ color:linen
+}
+input:hover{
+	background-color:linen;
+}
+div:hover{
+	border: 5px solid burlywood;
+	width: 35%;
+}
